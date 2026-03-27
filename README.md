@@ -1,19 +1,23 @@
 ## Hi there 👋, this is Chunyu Liu
 
-A second-year  undergraduate at Yao Class, Tsinghua University.
+I am a second-year undergraduate at Yao Class, Tsinghua University.
 
+### Research Focus
+- **Image Generation**
+- **Efficient Attention**
+- **Diffusion Language Models**
 
-<!-- 
-Here are some ideas to get you started:
+I am particularly interested in building elegant and efficient generative models, and in understanding how structure, computation, and aesthetics meet in modern AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+### Fun Facts
+- I am deeply devoted to music and have had **absolute pitch** since childhood.
+- I started learning **piano at the age of four**.
+- I love **singing** and playing the **guqin**, and I am currently learning **guitar**.
+- My favorite artist is **Ringo Sheena**.
+- I am also a great fan of **Japanese anime and manga**, especially fantasy stories with a touch of chuunibyou spirit.
+- My favorite character is **Souji Okita** from the *Hakuoki* series.
+
+I like things that are both rigorous and beautiful — in research, in music, and in life.
 
 ## Github Stats
 <table><tr><td valign="top" width="56%">
