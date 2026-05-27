@@ -6,8 +6,6 @@ I am a second-year undergraduate in Yao Class at Tsinghua University 🎓.
 - **Efficient Attention**
 - **Diffusion Language Models**
 
-I am especially interested in building elegant and efficient generative models, and in understanding how structure, computation, and aesthetics come together in modern AI systems ✨.
-
 ### Fun Facts 🎵
 - I am deeply devoted to music and have had **absolute pitch** since childhood 🎶.
 - I started learning **piano at the age of four** 🎹.
