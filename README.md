@@ -3,7 +3,6 @@
 I am a second-year undergraduate in Yao Class at Tsinghua University 🎓.
 
 ### Research Focus 🔬
-- **Image Generation**
 - **Efficient Attention**
 - **Diffusion Language Models**
 
@@ -12,10 +11,8 @@ I am especially interested in building elegant and efficient generative models, 
 ### Fun Facts 🎵
 - I am deeply devoted to music and have had **absolute pitch** since childhood 🎶.
 - I started learning **piano at the age of four** 🎹.
-- I love **singing** and playing the **guqin**, and I am currently learning **guitar** 🎸.
 - My favorite artist is **Ringo Sheena** 🍎.
 - I am also a big fan of **Japanese anime and manga**, especially fantasy stories with a touch of chuunibyou spirit 🔥.
-- My favorite character is **Souji Okita** from the *Hakuoki* series ⚔️.
 
 I love things that are both rigorous and beautiful: in research, in music, and in life 🌊.
 
