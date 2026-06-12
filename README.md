@@ -20,4 +20,4 @@
   
 * **Subcultures:** Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
-* **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus, ZUN.
+* **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus, ZUN, Giovanni Strazza.
