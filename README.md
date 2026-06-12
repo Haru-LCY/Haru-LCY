@@ -17,7 +17,7 @@
 
 * Absolute pitch since childhood. Piano since four.
 
-* Trained in bel canto / opera singing; learning guitar and guqin as amateur instruments.
+* Trained in bel canto / opera singing. Learning guitar and guqin as amateur instruments.
 
 * Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
