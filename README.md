@@ -1,7 +1,9 @@
 # Chunyu Liu
 
+I live to turn rigor into beauty — in research, music, and life.  
+
 I am a second-year undergraduate in Yao Class at Tsinghua University.
-I care about things that are both rigorous and beautiful — in research, in music, and in life.
+
 
 > “Fashion fades, style is eternal.”
 > — Yves Saint Laurent
