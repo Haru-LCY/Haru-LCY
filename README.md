@@ -1,8 +1,8 @@
 # Chunyu Liu
 
-I live to turn rigor into beauty — in research, music, and life.  
+🩵 I live to turn rigor into beauty — in research, music, and life. 
 
-I am a second-year undergraduate in Yao Class at Tsinghua University.
+🎓 I am a second-year undergraduate in Yao Class at Tsinghua University. 
 
 
 > “Fashion fades, style is eternal.”
@@ -22,7 +22,7 @@ I am a second-year undergraduate in Yao Class at Tsinghua University.
 * Learning **guitar** and **guqin** as amateur instruments.
 * Interested in Japanese anime, manga, visual novels, and fantasy stories with a touch of chuunibyou spirit.
 
-## 🕯️ Aesthetic & Philosophical Coordinates
+## 🔑 Aesthetic & Philosophical Coordinates
 
 * **Existentialism & Absurdism** : Albert Camus, Franz Kafka
 
