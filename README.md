@@ -7,18 +7,18 @@
 
 ## 🔬 Research Focus
 
-* **Efficient Attention**
+* **Efficient Attention :**
   Long-context modeling, sparse/linear attention, and efficient generative models.
 
-* **Diffusion Language Models**
+* **Diffusion Language Models :**
   Discrete diffusion LMs, decoding robustness, and variable-length generation.
 
 ## 🎼 Beyond Research
 
-Absolute pitch since childhood. Piano since four.
+* Absolute pitch since childhood. Piano since four.
 
-Trained in bel canto / opera singing; learning guitar and guqin as amateur instruments.
+* Trained in bel canto / opera singing; learning guitar and guqin as amateur instruments.
 
-Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
+* Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
-**Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus.
+* **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus.
