@@ -19,7 +19,6 @@
 
 * **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus, ZUN, Giovanni Strazza, Yohji Yamamoto.
 
----
 
 > “Fashions fade, style is eternal.”
 > — Yves Saint Laurent
