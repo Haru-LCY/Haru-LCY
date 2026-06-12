@@ -22,5 +22,3 @@
 
 > “Fashions fade, style is eternal.”
 > — Yves Saint Laurent
-
-Thanks for visiting.
