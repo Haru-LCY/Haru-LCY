@@ -1,6 +1,6 @@
 # “I live to turn rigor into beauty.”
 
-🎓 I'm Chunyu Liu, a second-year undergraduate in Yao Class at Tsinghua University.
+🎓 **I'm Chunyu Liu, a second-year undergraduate in Yao Class at Tsinghua University.**
 
 > “Fashion fades, style is eternal.”
 > — Yves Saint Laurent
