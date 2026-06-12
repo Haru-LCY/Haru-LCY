@@ -1,6 +1,6 @@
 # “I live to turn rigor into beauty.”
 
-🎓 **I'm Chunyu Liu, a second-year Yao Class undergraduate at Tsinghua University and a research intern in [Alex Lamb's group](https://sites.google.com/view/alexmlamb/home) at Tsinghua AI College.**
+🎓 **I'm Chunyu Liu, a second-year Yao Class undergraduate at Tsinghua University and a research intern in [Alex Lamb's group](https://sites.google.com/view/alexmlamb/home).**
 
 
 > “Fashions fade, style is eternal.”
