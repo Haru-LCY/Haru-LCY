@@ -1,18 +1,41 @@
-## Hi there 👋, I'm Chunyu Liu
+# Chunyu Liu
 
-I am a second-year undergraduate in Yao Class at Tsinghua University 🎓.
+I am a second-year undergraduate in Yao Class at Tsinghua University.
+I care about things that are both rigorous and beautiful — in research, in music, and in life.
 
-### Research Focus 🔬
-- **Efficient Attention**
-- **Diffusion Language Models**
+> “Fashion fades, style is eternal.”
+> — Yves Saint Laurent
 
-### Fun Facts 🎵
-- I am deeply devoted to music and have had **absolute pitch** since childhood 🎶.
-- I started learning **piano at the age of four** 🎹.
-- My favorite artist is **Ringo Sheena** 🍎.
-- I am also a big fan of **Japanese anime and manga**, especially fantasy stories with a touch of chuunibyou spirit 🔥.
+## Research Focus
 
-I love things that are both rigorous and beautiful: in research, in music, and in life 🌊.
+* **Efficient Attention**
+  Long-context modeling, sparse/linear attention, and efficient generative models.
+
+* **Diffusion Language Models**
+  Discrete diffusion LMs, decoding robustness, and variable-length generation.
+
+## Beyond Research
+
+* Deeply devoted to music, with **absolute pitch** since childhood.
+* Started learning **piano at the age of four**.
+* Trained in **bel canto / opera singing**.
+* Learning **guitar** and **guqin** as amateur instruments.
+* Interested in Japanese anime, manga, visual novels, and fantasy stories with a touch of chuunibyou spirit.
+
+## Aesthetic & Philosophical Coordinates
+
+* **Existentialism & Absurdism**
+  Albert Camus, Franz Kafka
+
+* **Grotesque, Surreal & Theatrical Aesthetics**
+  Ringo Sheena, Salvador Dalí, Elsa Schiaparelli
+
+* **Formal Beauty & Classical Order**
+  The Book of Songs（《诗经》）, Johann Sebastian Bach, Frédéric Chopin, Giovanni Strazza
+
+* **Classical Chinese Poetics & Jianghu Imagination**
+  Li Bai（李白）, Liu Yong（柳永）, Cao Xueqin（曹雪芹）, Jin Yong（金庸）
+
 
 ## Github Stats
 <table><tr><td valign="top" width="56%">
