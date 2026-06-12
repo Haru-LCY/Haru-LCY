@@ -2,10 +2,6 @@
 
 🎓 **I'm Chunyu Liu, a second-year Yao Class undergraduate at Tsinghua University and a research intern in [Alex Lamb's group](https://sites.google.com/view/alexmlamb/home).**
 
-
-> “Fashions fade, style is eternal.”
-> — Yves Saint Laurent
-
 ## 🔬 Research Focus
 
 * **Efficient Attention :**
@@ -22,3 +18,10 @@
 * **Subcultures:** Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
 * **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus, ZUN, Giovanni Strazza, Yohji Yamamoto.
+
+---
+
+> “Fashions fade, style is eternal.”
+> — Yves Saint Laurent
+
+Thanks for visiting.
