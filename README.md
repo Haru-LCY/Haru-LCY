@@ -15,7 +15,7 @@
 
 ## 🎼 Beyond Research
 
-* **Music:** Absolute pitch since childhood, piano since four, with training in bel canto / opera singing and amateur studies in guitar and guqin.
+* **Music:** Absolute pitch since childhood, piano since four, with training in bel canto singing and amateur studies in guitar and guqin.
   
 * **Subcultures:** Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
