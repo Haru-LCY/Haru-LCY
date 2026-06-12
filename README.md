@@ -15,10 +15,8 @@
 
 ## 🎼 Beyond Research
 
-* Absolute pitch since childhood. Piano since four.
+* **Music:** Absolute pitch since childhood, piano since four, with training in bel canto / opera singing and amateur studies in guitar and guqin.
+  
+* **Subcultures:** Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
-* Trained in bel canto / opera singing. Learning guitar and guqin as amateur instruments.
-
-* Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
-
-* **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus.
+* **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus, ZUN.
