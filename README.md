@@ -30,19 +30,3 @@ I care about things that are both rigorous and beautiful — in research, in mus
 
 * **Classical Chinese Poetics & Jianghu Imagination** : Li Bai（李白）, Liu Yong（柳永）, Cao Xueqin（曹雪芹）, Jin Yong（金庸）
 
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats-orpin-gamma.vercel.app/api?username=Haru-LCY&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats-orpin-gamma.vercel.app/api/top-langs/?username=Haru-LCY&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td>
-</tr>
-</table>
