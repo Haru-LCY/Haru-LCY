@@ -18,4 +18,4 @@
 * **Subcultures:** Visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
 
-* **Favorite artist:** Yohji Yamamoto — for his defiance of convention, resistance to polished perfection, unfinished traces, and his vision of women’s beauty and independence.
+* **Favorite artist:** Yohji Yamamoto — for his defiance of convention and resistance to polished perfection.
