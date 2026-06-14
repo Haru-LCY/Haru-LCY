@@ -15,10 +15,7 @@
 * **Music:** Absolute pitch since childhood, piano since four, trained in bel canto, learning guitar and guqin.
 
   
-* **Subcultures:** Love visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
-
-* **Favorite artists & creators:** Ringo Sheena, 曹雪芹, 李白, Albert Camus, ZUN, Giovanni Strazza, Yohji Yamamoto.
+* **Subcultures:** Visual novels, Japanese anime, manga, and fantasy stories with a touch of chuunibyou spirit.
 
 
-> “Fashions fade, style is eternal.”
-> — Yves Saint Laurent
+* **Favorite artist:** Yohji Yamamoto — for his defiance of convention, resistance to polished perfection, unfinished traces, and his vision of women’s beauty and independence.
