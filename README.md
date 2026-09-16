@@ -1,6 +1,6 @@
 # “I live to turn rigor into beauty.”
 
-🎓 **I'm Chunyu Liu, a second-year Yao Class undergraduate at Tsinghua University and a research intern in [Alex Lamb's group](https://sites.google.com/view/alexmlamb/home).**
+🎓 **I'm Chunyu Liu, a third-year Yao Class undergraduate at Tsinghua University and a research intern in [Alex Lamb's group](https://sites.google.com/view/alexmlamb/home).**
 
 ## 🔬 Research Focus
 
