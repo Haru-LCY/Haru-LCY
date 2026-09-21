@@ -5,7 +5,7 @@
 ## 🔬 Research Focus
 
 * **Efficient Attention :**
-  Long-context modeling, sparse/linear attention, and efficient generative models.
+Sparse/linear attention, quantization and efficient generative models.
 
 * **Diffusion Language Models :**
   Discrete diffusion LMs, decoding robustness, and variable-length generation.
